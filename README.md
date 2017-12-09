@@ -3,7 +3,7 @@ Goal this application is shown classical hands a clock. Clock is diplay onto htm
 canvas area. You can show clock on different devices from personal computer to smartphones with access on the internet. Diversity support responsive design used in application, it capable adapt on any screen size. I developed the application for study purpose when I learned Javascript language. 
 
 <p align='center'>
-<img src="https://webcreatorslt.com/wp-content/uploads/2016/07/responsive-web-design-webcreatorslt.png"/>
+<img src="clockResponsiveDesign.jpg"/>
 </p>
 
 ## Technologies
@@ -11,4 +11,5 @@ canvas area. You can show clock on different devices from personal computer to s
 * CSS
 * Javascript
 
-If you show clock now, you click on this [link](http://www.jiricaga.cz/clock/)
+## Access
+If you can show the actual time, click on this [link](http://www.jiricaga.cz/clock/).
